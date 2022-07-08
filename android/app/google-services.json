@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860766835118",
+    "project_id": "example-push-jfq",
+    "storage_bucket": "example-push-jfq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860766835118:android:a9a9b979c4e9346ca4383f",
+        "android_client_info": {
+          "package_name": "quirino.jonas.exemplo_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860766835118-auk3vk4tao7pkopi36uqq908sp7omn92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASAhb0uLQzqspEeOFrlb5wEnP-CCH0gck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860766835118-auk3vk4tao7pkopi36uqq908sp7omn92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
